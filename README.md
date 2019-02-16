@@ -1,5 +1,5 @@
 # Connect-4
-Classic game of connect 4 digialtized and remade using pygame
+Classic game of connect 4 digialtized and remade using pygame.
 In order to use this program you must have python 3.6.4
 You must also already have the pygame module and numbpy module installed
 If you do not, open cmd (command prompt) and copy paste this "py -m pip install -U pygame --user" in order to install pygame
